@@ -12,7 +12,7 @@
 
 ---
 
-### 💡 Technologies & Tools
+### ⚙️ My Technical Toolkit
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
@@ -28,7 +28,7 @@
 
 ---
 
-### 🔗 💼 Let's Work Together
+### 💼 Let's Work Together
 <p align="center">
   <a href="https://www.linkedin.com/in/contactkaushikparida/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45px" height="45px"/></a>
   &nbsp;&nbsp;
