@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠 Technical Skills
+### 🛠 Technical Skills
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px"/>
