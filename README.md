@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠 Technical Skills
+### 💡 Technologies & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
@@ -28,12 +28,12 @@
 
 ---
 
-### 🔗 **Let's Connect**
+### 🔗 💼 Let's Work Together
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaushikparida/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/></a>
+  <a href="https://www.linkedin.com/in/contactkaushikparida/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45px" height="45px"/></a>
   &nbsp;&nbsp;
   <a href="mailto:kaushik.kp.06@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40px"/></a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40px" height="45px"/></a>
   &nbsp;&nbsp;
 </p>
 
