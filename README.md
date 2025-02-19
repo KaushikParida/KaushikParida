@@ -27,6 +27,13 @@
 </p>
 
 ---
+
+## 🔗 **Let's Connect**
+📌 **LinkedIn:** [linkedin.com/in/contactkaushikparida](https://www.linkedin.com/in/contactkaushikparida/)  
+📌 **Email:** [kaushik.kp.06@gmail.com](mailto:kaushik.kp.06@gmail.com)  
+📌 **Portfolio:** *(Coming Soon!)*  
+
+---
 <!--
 **KaushikParida/KaushikParida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
