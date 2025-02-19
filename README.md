@@ -32,8 +32,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/kaushikparida/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:kaushik.kp.06@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40px"/></a>
-  &nbsp;&nbsp;  
+  <a href="mailto:kaushik.kp.06@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40px"/>
+  </a>
 </p>
 
 ---
