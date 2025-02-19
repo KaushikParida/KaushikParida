@@ -29,11 +29,21 @@
 ---
 
 ## 🔗 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/contactkaushikparida/)  
-[![Email](https://img.shields.io/badge/Email-kaushik.kp.06@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kaushik.kp.06@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaushikparida/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kaushik.kp.06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 **Portfolio:** *(Coming Soon!)*  
 
 ---
+
+🚀 I’m open to collaboration on **exciting projects**!  
+💡 Feel free to **connect** and discuss new ideas.
+
 <!--
 **KaushikParida/KaushikParida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
