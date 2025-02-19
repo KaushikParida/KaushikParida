@@ -4,7 +4,7 @@
 
 ---
 
-### 🌟 About Me  
+**🌟 About Me**  
 - 🎓 Doing my Bachelors in Computer Science & Engineering at ITER, SOA University (Graduating 2026)  
 - 💡 Passionate about **problem-solving, creativity, and innovation**  
 - 🚀 Exploring new challenges that push me beyond my limits  
