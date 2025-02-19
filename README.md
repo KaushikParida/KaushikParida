@@ -14,9 +14,9 @@
 
 ### 🛠 Technical Skills
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
@@ -29,9 +29,9 @@
 ---
 
 ## 🔗 **Let's Connect**
-📌 **LinkedIn:** [linkedin.com/in/contactkaushikparida](https://www.linkedin.com/in/contactkaushikparida/)  
-📌 **Email:** [kaushik.kp.06@gmail.com](mailto:kaushik.kp.06@gmail.com)  
-📌 **Portfolio:** *(Coming Soon!)*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/contactkaushikparida/)  
+[![Email](https://img.shields.io/badge/Email-kaushik.kp.06@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kaushik.kp.06@gmail.com)
+**Portfolio:** *(Coming Soon!)*  
 
 ---
 <!--
